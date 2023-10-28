@@ -4,8 +4,15 @@
 ### Goal of the Project
 Building a reliable data pipeline to compile COVID-19 data from several sources, including government health departments, hospitals, and research institutes, would be the project's primary goal. These pipelines can clean, process, and integrate data into a centralized data lake or data warehouse, allowing it to be accessible for additional analysis, using the connections and transformations offered by Azure Data Factory.
 
+![Goal of the project](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/1a66c120-7146-4a87-8f30-3a2aa551dc27)
+
+
 ### The Datasets' source
 In this project, The dataset is ingested to Azure Data Factory from two sources: first dataset is ingested from Azure Blob storage and other dataset is ingested from http i.e website of European Centre for Disease Prevention and Control (ECDC)
+
+![Tools Used](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/eb9c40aa-5617-41c9-987e-b3ff71d239ed)
+
+![Solution Architecture](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/088e9576-68a7-49a3-9972-09332e99ce76)
 
 ### Use Cases
 Below are some of the use cases of the data collected:
