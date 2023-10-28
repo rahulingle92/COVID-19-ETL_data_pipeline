@@ -1,4 +1,4 @@
-# Tiger-Analytics-ETL-Pipeline-Project
+# ETL-Data Pipeline-Project
 ## An automated data pipeline for Covid19 Prediction and Reporting
 
 ### Goal of the Project
