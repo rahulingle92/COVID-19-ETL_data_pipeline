@@ -6,13 +6,30 @@ Building a reliable data pipeline to compile COVID-19 data from several sources,
 ![Image_1](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/df821e06-7b7b-4f3f-a195-bd597c7ed8e2)
 
 
-In this project we ingested the data of COVID 19 from ECDC ( European center for Disease control and Prevention). This data is ingested to Azure data Factory in two Modes
-
 ![Goal of the project](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/1a66c120-7146-4a87-8f30-3a2aa551dc27)
 
 
 ### The Datasets' source
-In this project, The dataset is ingested to Azure Data Factory from two sources: first dataset is ingested from Azure Blob storage and other dataset is ingested from http i.e website of European Centre for Disease Prevention and Control (ECDC)
+In this project, The dataset is ingested to Azure Data Factory from two sources: first dataset is ingested from Azure Blob storage and other dataset is ingested from http i.e website of European Centre for Disease Prevention and Control (ECDC). We received following details  from the ECDC  website:
+ * Confirmed Cases on daily basis
+ * Mortality due to COVID 19 on daily basis
+ * Hospitalization / ICU cases
+ * Testing Numbers
+and we received  following details from Eurostat website :
+ * Country's Population by Age Group
+
+### The Datalake that we built with following data to help the data Scientist to predict the spread of the virus/ Mortality:
+ * Confirmed Cases on daily basis
+ * Mortality due to COVID 19 on daily basis
+ * Hospitalization / ICU cases
+ * Testing Numbers
+ * Country's Population by Age Group
+The Data Warehouse that we built with the following data to aid reporting on Trends
+ * Confirmed Cases on daily basis
+ * Mortality due to COVID 19 on daily basis
+ * Hospitalization / ICU cases
+ * Testing Numbers
+ * Country's Population by Age Group
 
 ![Tools Used](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/eb9c40aa-5617-41c9-987e-b3ff71d239ed)
 
