@@ -2,7 +2,11 @@
 ## An automated data pipeline for Covid19 Prediction and Reporting
 
 ### Goal of the Project
-Building a reliable data pipeline to compile COVID-19 data from several sources, including government health departments, hospitals, and research institutes, would be the project's primary goal. These pipelines can clean, process, and integrate data into a centralized data lake or data warehouse, allowing it to be accessible for additional analysis, using the connections and transformations offered by Azure Data Factory.
+Building a reliable data pipeline to compile COVID-19 data from several sources, including government health departments, hospitals, and research institutes, would be the project's primary goal. These pipelines can clean, process, and integrate data into a centralized data lake or data warehouse, allowing it to be accessible for additional analysis, using the connections and transformations offered by Azure Data Factory. The overall task which needs to performed are as shown:
+![Image_1](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/df821e06-7b7b-4f3f-a195-bd597c7ed8e2)
+
+
+In this project we ingested the data of COVID 19 from ECDC ( European center for Disease control and Prevention). This data is ingested to Azure data Factory in two Modes
 
 ![Goal of the project](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/1a66c120-7146-4a87-8f30-3a2aa551dc27)
 
