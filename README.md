@@ -24,7 +24,7 @@ In this project, The dataset is ingested to Azure Data Factory from two sources:
  * Hospitalization / ICU cases
  * Testing Numbers
  * Country's Population by Age Group
-The Data Warehouse that we built with the following data to aid reporting on Trends
+### The Data Warehouse that we built with the following data to aid reporting on Trends
  * Confirmed Cases on daily basis
  * Mortality due to COVID 19 on daily basis
  * Hospitalization / ICU cases
