@@ -8,11 +8,14 @@ Building a reliable data pipeline to compile COVID-19 data from several sources,
 
 
 ### The Datasets' source
-In this project, The dataset is ingested to Azure Data Factory from two sources: first dataset is ingested from Azure Blob storage where dataset stored in Azure Blob Storage and other dataset is ingested from http i.e website of European Centre for Disease Prevention and Control (ECDC). We received following details  from the ECDC  website:
+In this project, The dataset is ingested to Azure Data Factory from two sources: first dataset is ingested from Azure Blob storage where dataset is stored from Eurostat website and other dataset is ingested directly from http i.e website of European Centre for Disease Prevention and Control (ECDC). 
+
+#### We received following details  from the ECDC  website:
  * Confirmed Cases on daily basis
  * Mortality due to COVID 19 on daily basis
  * Hospitalization / ICU cases
  * Testing Numbers
+   
 #### We received  following details from Eurostat website which is stored in Azure Blob Storage :
  * Country's Population by Age Group
 
