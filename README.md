@@ -55,9 +55,16 @@ In this project, The dataset is ingested to Azure Data Factory from two sources:
 
   ![Image_6_Storage_Account_deployment](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/429fabf7-1593-4d7b-bb54-dbdf12730f0b)
 
-* Then we have created Azure Data Lake Gen2 account ( Named as "covidreportingdl0806") and it is deployed on "Covind reporting project" Dashboard as below:
+* Then we have created Azure Data Lake Gen2 account ( Named as "covidreportingdl0806") and it is deployed on "Covid reporting project" Dashboard as below:
 
   ![Image_7_Datalake_Storage_Account_Deployment](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/2e617d91-eb82-4898-83e3-eda1ebb3e365)
+
+* Then we have created Azure SQl Database ( Named as "covid-db") and then it is deployed on "Covid reporting project" Dashboard as below:
+
+  ![Image_8_Covid_db](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/a68b4282-9eec-4309-aa8c-31309ed81047)
+
+
+
 
 
  
