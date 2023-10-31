@@ -68,11 +68,6 @@ In this project, The dataset is ingested to Azure Data Factory from two sources:
 
 
  
-   
-![Tools Used](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/eb9c40aa-5617-41c9-987e-b3ff71d239ed)
-
-![Solution Architecture](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/088e9576-68a7-49a3-9972-09332e99ce76)
-
 ### Use Cases
 Below are some of the use cases of the data collected:
 - The data can be used to identify the impact that affected people by covid-19 virus have on city population, going even further to categorize the impact by gender.
