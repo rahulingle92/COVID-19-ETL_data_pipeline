@@ -28,7 +28,8 @@ In this project, The dataset is ingested to Azure Data Factory from two sources:
 
 ### Storage Solutions used in this project
 
-![Image_4_Storage_solution](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/efe77089-d46a-4f5e-8a73-a82a809ac115)
+![Image_4_Storage_solution](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/8b70aa2a-352f-4c28-8dac-a73a13c5fae6)
+
 
 
 ### The Datalake that we built with following data to help the data Scientist to predict the spread of the virus/ Mortality:
