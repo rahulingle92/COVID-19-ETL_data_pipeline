@@ -50,6 +50,9 @@ In this project, The dataset is ingested to Azure Data Factory from two sources:
 
    ![image](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/cd4925b1-de05-45d3-a95b-a154f586f02b)
 
+* Then we have set up Azure storage account and it is deployed on "Covid reporting project" Dashboard as below:
+
+  ![Image_6_Storage_Account_deployment](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/429fabf7-1593-4d7b-bb54-dbdf12730f0b)
 
 
  
