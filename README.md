@@ -42,6 +42,10 @@ In this project, The dataset is ingested to Azure Data Factory from two sources:
  * Testing Numbers
  * Country's Population by Age Group
 
+### Environment setup
+
+
+   
 ![Tools Used](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/eb9c40aa-5617-41c9-987e-b3ff71d239ed)
 
 ![Solution Architecture](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/088e9576-68a7-49a3-9972-09332e99ce76)
