@@ -45,8 +45,14 @@ In this project, The dataset is ingested to Azure Data Factory from two sources:
  * Country's Population by Age Group
 
 ### Environment setup
+ * As the first step in Project implementation, we have set up Environment for the Project Deployment.
+ * Initially we have deployed the Azure Data Factory for "Covid reporting project" Dashboard as below:
+
+   ![image](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/cd4925b1-de05-45d3-a95b-a154f586f02b)
 
 
+
+ 
    
 ![Tools Used](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/eb9c40aa-5617-41c9-987e-b3ff71d239ed)
 
