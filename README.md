@@ -21,6 +21,11 @@ In this project, The dataset is ingested to Azure Data Factory from two sources:
 #### We received  following details from Eurostat website which is stored in Azure Blob Storage :
  * Country's Population by Age Group
 
+### Solution Architecture 
+
+![Image_3](https://github.com/rahulingle92/COVID-19-ETL_data_pipeline/assets/44425377/3da3bd9f-6af5-44a4-8483-2739296fa938)
+
+
 ### The Datalake that we built with following data to help the data Scientist to predict the spread of the virus/ Mortality:
  * Confirmed Cases on daily basis
  * Mortality due to COVID 19 on daily basis
